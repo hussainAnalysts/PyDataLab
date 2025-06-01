@@ -65,19 +65,23 @@ This end-to-end analytics project demonstrates how transactional data can unlock
 
 ---
 
-## 💻 Technologies Used
+## 🛠 Technologies & Tools
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- Data wrangling, visualization, and segmentation techniques
+- **Programming Language**: Python  
+- **Libraries Used**:  
+  `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Datetime`
+
+- **Environment**:  
+  Jupyter Notebook (for interactive data analysis and visualization)
+
+- **Techniques**:  
+  Data cleaning, aggregation, customer segmentation, group-based analytics, time-series visualization, formatting, and storytelling with data.
 
 ---
-
 ## 📁 Repository Structure
 
 
 
-## 🗂 Repository Structure
 
 ```bash
 PyDataLab/
