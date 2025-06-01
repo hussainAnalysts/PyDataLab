@@ -44,11 +44,11 @@ The ultimate goal is to leverage data-driven approaches to enhance category mana
 PyDataLab/
 │
 ├── data/                 # Contains raw and processed datasets
-│   ├── QVI_transaction_data.csv
-│   ├── customer_data.csv
+│   ├── QVI_transaction_data.xlsx
+│   ├── QVI_purchase_behaviour.csv
 │
 ├── notebooks/            # Jupyter notebooks for step-by-step analysis
-│   └── Retail_Analytics_Task_1.ipynb
+│   └── Task_1.ipynb
 │
 ├── visualizations/       # Saved graphs and exported visuals
 │   └── sales_by_segment.png
